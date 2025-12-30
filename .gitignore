@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+.env
+npm-debug.log*
+yarn-error.log*
+
+# Docker data
+mysql_data/
